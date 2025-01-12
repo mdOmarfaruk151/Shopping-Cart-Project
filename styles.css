@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #cartModal {
+    display: flex;
+    z-index: 999;
+  }
+  
+  #cart-items {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #product-list .product {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .product button {
+    background-color: #f59e0b;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

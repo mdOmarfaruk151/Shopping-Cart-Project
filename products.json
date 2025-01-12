@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Epson FastFoto FF-680W",
+      "description": "World's Fastest Personal Photo Scanner (1) — scan thousands of photos as fast as 1 photo per second at 300 dpi (2); batch-scan up to 36 photos at a time",
+      "price": 599.99,
+      "image": "https://m.media-amazon.com/images/I/718gyHY67LL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sceptre Curved 24.5-inch Gaming Monitor",
+      "description": "240Hz Refresh Rate: Stay above the pack with 240Hz, giving you an edge in performance as frames transition instantly.Specific uses for product - Gaming",
+      "price": 138.79,
+      "image": "https://m.media-amazon.com/images/I/71P1MZ8ztDL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "SHRRADOO Extra Large 50L Travel Laptop Backpack",
+      "description": "AFTER SALES SERVICE GUARANTEE: We solemnly promise that within one year of purchasing and receiving this product, if any quality defects occur during normal use (not due to improper use or human damage).",
+      "price": 25.59,
+      "image": "https://m.media-amazon.com/images/I/61eiZt4fmaL._AC_SL1200_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "HP USB-C Dock G5-11 in 1 Adapter",
+      "description": "COMPATIBILITY WITHOUT CONSTRAINTS – Designed with universal compatibility in mind, this dock works with both HP and non-HP USB-C- and Thunderbolt-enabled laptops.",
+      "price": 144.99,
+      "image": "https://m.media-amazon.com/images/I/81TTJsv099L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo Laptop Bag T210",
+      "description": "Modern Lifestyle Companion: The Lenovo 12' T210 shoulder bag is crafted to align with the demands of contemporary living. Its sleek, streamlined design combined with water-repellent fabric makes it an ideal bag for individuals on the go.",
+      "price": 13.79,
+      "image": "https://m.media-amazon.com/images/I/817Da7pNmfL._AC_SY695_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Logitech G432 Wired Gaming Headset",
+      "description": "Frequency Response: 20Hz-20KHz.Headphones fit type:On-Ear Large 50 millimeter audio drivers produce great sound for a more immersive gaming experience",
+      "price": 34.99,
+      "image": "https://m.media-amazon.com/images/I/61j6ey6mBpL._AC_SL1024_.jpg"
+    }
+  ]
+  
